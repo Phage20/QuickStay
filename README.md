@@ -1,4 +1,5 @@
-QuickStay
+
+
 QuickStay is a modern, full-featured hotel booking platform designed to offer users a seamless experience in discovering and booking exclusive hotels and resorts around the world. It integrates secure payments, user authentication, and a sleek, responsive interface.
 
 Features
